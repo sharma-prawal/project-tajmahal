@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "types": ["node"]
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "src/types/assetManifest.ts",
+    "src/core/bakeoff/reviewConfig.ts",
+    "src/core/lighting/benchmarkConfig.ts",
+    "src/core/lighting/shadowTypes.ts",
+    "src/constants/world.ts"
+  ]
+}

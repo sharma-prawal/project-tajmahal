@@ -1,0 +1,197 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+      "name": "Places & Travel",
+      "slug": "places-travel",
+      "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 3,
+  "createdAt": "2017-07-01T05:40:17.252062",
+  "embedUrl": "https://sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/embed",
+  "faceCount": 187264,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 11,
+  "name": "3D Taj mahal",
+  "publishedAt": "2017-07-01T05:46:13.296912",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "taj",
+      "slug": "taj",
+      "uri": "https://api.sketchfab.com/v3/tags/taj"
+    },
+    {
+      "name": "mahal",
+      "slug": "mahal",
+      "uri": "https://api.sketchfab.com/v3/tags/mahal"
+    },
+    {
+      "name": "corona",
+      "slug": "corona",
+      "uri": "https://api.sketchfab.com/v3/tags/corona"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "3dsmax",
+      "slug": "3dsmax",
+      "uri": "https://api.sketchfab.com/v3/tags/3dsmax"
+    },
+    {
+      "name": "creature",
+      "slug": "creature",
+      "uri": "https://api.sketchfab.com/v3/tags/creature"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "1a5d23bd2e02475fa1444385462e0323",
+        "width": 1920,
+        "height": 1080,
+        "size": 89687,
+        "url": "https://media.sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/thumbnails/172aba2fed3a44ddb231aee83216b2c0/1920x1080.jpeg"
+      },
+      {
+        "uid": "ce02f82ddb814ce0ad5e88ad1f050517",
+        "width": 1024,
+        "height": 576,
+        "size": 31654,
+        "url": "https://media.sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/thumbnails/172aba2fed3a44ddb231aee83216b2c0/1024x576.jpeg"
+      },
+      {
+        "uid": "4de70af04077443ba04978103fd0b8dd",
+        "width": 720,
+        "height": 405,
+        "size": 20083,
+        "url": "https://media.sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/thumbnails/172aba2fed3a44ddb231aee83216b2c0/720x405.jpeg"
+      },
+      {
+        "uid": "9bb6ccce73684812803c260fdc5e125d",
+        "width": 256,
+        "height": 144,
+        "size": 5276,
+        "url": "https://media.sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/thumbnails/172aba2fed3a44ddb231aee83216b2c0/256x144.jpeg"
+      },
+      {
+        "uid": "0197bf1d247e44da9afe19f68b75a7c9",
+        "width": 64,
+        "height": 36,
+        "size": 1350,
+        "url": "https://media.sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/thumbnails/172aba2fed3a44ddb231aee83216b2c0/64x36.jpeg"
+      }
+    ]
+  },
+  "uid": "82ed9638a1f24d24b7bd301e3bcff57a",
+  "uri": "https://api.sketchfab.com/v3/models/82ed9638a1f24d24b7bd301e3bcff57a",
+  "user": {
+    "uid": "aaa13a807a224e19a41daa5e48d2ee25",
+    "username": "hacked909",
+    "displayName": "Mihir",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/hacked909",
+    "avatar": {
+      "uid": "44d4bb119a124471beb13c1ca104d5cf",
+      "uri": "https://api.sketchfab.com/v3/avatars/44d4bb119a124471beb13c1ca104d5cf",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 637,
+          "url": "https://media.sketchfab.com/avatars/44d4bb119a124471beb13c1ca104d5cf/3ab0170db2d742c9995f89432fbf8753.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1049,
+          "url": "https://media.sketchfab.com/avatars/44d4bb119a124471beb13c1ca104d5cf/32699025e23240c98b7dc806d4c886bd.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2662,
+          "url": "https://media.sketchfab.com/avatars/44d4bb119a124471beb13c1ca104d5cf/98508cf18d404dfa99b8e07b0cf9152f.jpeg"
+        },
+        {
+          "width": 32,
+          "height": 32,
+          "size": 637,
+          "url": "https://media.sketchfab.com/avatars/44d4bb119a124471beb13c1ca104d5cf/baafa74d255945c1bdd1f9320c3f3329.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3090,
+          "url": "https://media.sketchfab.com/avatars/44d4bb119a124471beb13c1ca104d5cf/1564c5880f0547929746dde091c60914.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/aaa13a807a224e19a41daa5e48d2ee25"
+  },
+  "vertexCount": 8580,
+  "viewCount": 6076,
+  "viewerUrl": "https://sketchfab.com/3d-models/3d-taj-mahal-82ed9638a1f24d24b7bd301e3bcff57a",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "3D taj mahal by yash \n\nthis taj mahal was created in 3ds max and render using Corona render",
+  "price": null,
+  "downloadCount": 933,
+  "editorUrl": "https://sketchfab.com/models/82ed9638a1f24d24b7bd301e3bcff57a/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-20T11:14:34.952016",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 3
+}

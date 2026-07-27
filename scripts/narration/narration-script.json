@@ -1,0 +1,85 @@
+{
+  "voice": {
+    "engine": "Kokoro-82M v1.0",
+    "preset": "am_michael",
+    "language": "en-us",
+    "speed": 0.92
+  },
+  "tutorial": {
+    "desktop-1": "Move naturally. Use W, A, S, D, or the arrow keys. Diagonal input is normalized.",
+    "desktop-2": "Look around. Drag the scene, or click to engage mouse look. Use the camera controls to recenter.",
+    "desktop-3": "Remember. Press E at a memory prompt. Continue with E or Enter. Press Escape to step away.",
+    "touch-1": "Move naturally. Drag within the left control ring to walk in any direction.",
+    "touch-2": "Look around. Drag the open right side of the scene to rotate the camera.",
+    "touch-3": "Remember. Tap a memory prompt, then use Continue to move through each reflection."
+  },
+  "welcome": {
+    "1": "Hello, Aashna—and welcome to a little piece of Agra, made especially for you.",
+    "2": "Just as the Taj Mahal was created as a timeless symbol of love, I wanted to build something virtual and truly special for you, bringing it to life here in a world of your own.",
+    "3": "Walk through the Charbagh, follow the fountains, look up at the minarets, and take in the mausoleum at your own pace.",
+    "4": "A few of our memories are hidden across the gardens, waiting to be unlocked before you climb the Taj’s stairs. Explore every path, look closely, and take your time. This place was made for you."
+  },
+  "memories": {
+    "production.memory.mints": {
+      "friend-offer-declined": "When our parents were away in Himachal, you cared for me so completely that I did not have to worry about a single chore.",
+      "narrator-offer-accepted": "The delicious food you cooked every day kept me warm, well fed, and completely looked after.",
+      "quiet-difference": "It was a quiet kind of love that made home feel so warm and meaningful."
+    },
+    "production.memory.back": {
+      "ordinary-breaks": "In the middle of intense company deadlines and project stress, you gently massage my head and feet.",
+      "back": "A touch of sanity.",
+      "quiet-significance": "It brings me back to peace, easing every bit of tension and reminding me that I am safe with you."
+    },
+    "production.memory.boarding-passes": {
+      "volunteered-help": "You always pay attention to the things I love and the hobbies that bring me joy...",
+      "not-quick-or-easy": "...like surprising me with the PS Portal for my birthday in 2026.",
+      "hours-of-effort": "It is never just about the gift itself...",
+      "struggled-alone": "...but how deeply you know me and care about what makes me smile.",
+      "help-itself": "That thoughtful care is something I love about you...",
+      "chose-the-time": "...and it will always hold a special place in my heart."
+    },
+    "production.memory.umbrella": {
+      "umbrella-reminder": "Whenever I request it, you happily cook for me—especially your delicious fried rice…",
+      "walk-outside": "…stepping into the kitchen with so much warmth and care.",
+      "meaningful-thought": "Every time you prepare it, it speaks your love language louder than any words ever could."
+    },
+    "production.memory.little-details": {
+      "family-categories": "You prepare my office clothes so attentively every morning...",
+      "everything-else": "...and keep everything so perfectly sorted for me.",
+      "without-hesitation": "You have taken such good care of me that I have become completely spoiled...",
+      "ordinary-world": "...so spoiled that I do not even know where my own socks are anymore!",
+      "effortless-trust": "It is a small daily routine, but it shows how deeply you care for me."
+    },
+    "production.memory.all-day-call": {
+      "unspoken-feeling": "Even on days when you feel sad or moody and things feel difficult…",
+      "not-in-words": "…the effort you make to listen, understand, and stay close to me is remarkable.",
+      "chose-to-stay": "I must have done something truly wonderful in a past life…",
+      "entire-day": "…to be blessed with someone as caring and devoted as you.",
+      "quiet-choice": "Your presence in my life is a gift I will cherish forever."
+    },
+    "production.memory.friday-night": {
+      "friday-night": "Post Shivani’s marriage...",
+      "vulnerable-side": "...the way you stand by our mother and father makes me immensely proud.",
+      "perhaps-weak": "They do so much for us...",
+      "not-hide": "...and the love and respect you give them means everything to me.",
+      "not-weakness": "Having a great family bond and their blessings will always keep us happy and cared for.",
+      "trust-it-took": "Keep showing them that love...",
+      "let-seen": "...and our family will always flourish with warmth and grace."
+    }
+  },
+  "finalLetter": [
+    "Dear Aashna,",
+    "If you've reached this place, you've walked through every quiet moment that defines everything we share.",
+    "None of these were grand declarations. They were the gentle, ordinary acts of love that mean the world to me—the way you took care of everything and cooked warm, delicious meals when our parents were in Himachal; the gentle head and foot massages that brought me sanity in the middle of chaotic work stress; the thoughtful gifts like the PS Portal for my birthday in 2026 that showed how deeply you know my heart; the delicious fried rice you cook whenever I request it, speaking your love language without saying a word; the way you sort my office clothes every morning until I can't even find my own socks; the devotion with which you listen and stay glued to me even on hard or moody days, making me feel blessed beyond measure; and the beautiful respect with which you support our mother and father post Shivani's marriage, filling our home with family warmth and blessings.",
+    "Individually, each moment is a quiet blessing. Together, they have built something deeply genuine and lasting.",
+    "What we share has never needed grand promises or expectations. It has simply been built, one thoughtful moment after another, through steady care, patience, understanding, and showing up for each other every single day.",
+    "One thing I admire most about you is your boundless capacity for love and care. Even when work stress or life gets overwhelming, your presence is a comforting anchor that brings me peace.",
+    "I hope you always know that whatever difficult days or challenges come our way, we will face them together, step by step—just as we have walked through this garden, with patience, warmth, and unshakeable trust.",
+    "If this journey has reminded you of anything, I hope it's this:",
+    "The smallest moments of care are the ones that stay with us the longest.",
+    "Thank you for your warmth, your patience, your cooking, your gentle touch, your laughter, and the beautiful family bond we continue to build together.",
+    "No matter where life takes us next, these moments will always remain the most cherished chapter of my story.",
+    "And I hope, in every way, they will always remain a cherished part of yours too.",
+    "From Prawal."
+  ]
+}

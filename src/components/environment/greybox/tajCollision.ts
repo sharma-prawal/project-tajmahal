@@ -1,0 +1,25 @@
+import {
+  TAJ_CENTRAL_STRUCTURE_CENTER_X,
+  TAJ_CENTRAL_STRUCTURE_CENTER_Z,
+  TAJ_CENTRAL_STRUCTURE_SIZE,
+  TAJ_MINARET_CENTER_X,
+  TAJ_MINARET_FRONT_Z,
+  TAJ_MINARET_RADIUS,
+  TAJ_MINARET_REAR_Z,
+  TAJ_PRESENTATION_SCALE,
+} from '@constants/tajPlacement';
+
+export const TAJ_COLLISION_HEIGHT = 18 * TAJ_PRESENTATION_SCALE;
+
+export const TAJ_CENTRAL_STRUCTURE_COLLIDER_SPEC = {
+  args: [TAJ_CENTRAL_STRUCTURE_SIZE / 2, TAJ_COLLISION_HEIGHT / 2, TAJ_CENTRAL_STRUCTURE_SIZE / 2] as [number, number, number],
+  position: [TAJ_CENTRAL_STRUCTURE_CENTER_X, TAJ_COLLISION_HEIGHT / 2, TAJ_CENTRAL_STRUCTURE_CENTER_Z] as [number, number, number],
+};
+
+export const TAJ_MINARET_COLLIDER_SPECS = [-1, 1].flatMap((side) => [
+  [side * TAJ_MINARET_CENTER_X, TAJ_MINARET_FRONT_Z],
+  [side * TAJ_MINARET_CENTER_X, TAJ_MINARET_REAR_Z],
+]).map(([x, z]) => ({
+  args: [TAJ_COLLISION_HEIGHT / 2, TAJ_MINARET_RADIUS] as [number, number],
+  position: [x, TAJ_COLLISION_HEIGHT / 2, z] as [number, number, number],
+}));

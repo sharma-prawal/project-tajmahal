@@ -1,0 +1,309 @@
+{
+  "engine": "Kokoro-82M v1.0",
+  "voice": "am_michael",
+  "language": "en-us",
+  "speed": 0.92,
+  "assets": [
+    {
+      "path": "public/assets/audio/narration/tutorial/desktop-1.mp3",
+      "bytes": 46080,
+      "durationSeconds": 7.516,
+      "sha256": "7639e8552e14bec378974ae61db1ca59c6ddd8600e41afe7c4bf0b852314871a",
+      "textSha256": "0a600bb8a303cc0ee609dfb31862825b5cce5e6861fcbbf19103ae3d64da11b3"
+    },
+    {
+      "path": "public/assets/audio/narration/tutorial/desktop-2.mp3",
+      "bytes": 45114,
+      "durationSeconds": 7.324,
+      "sha256": "cdb74086d7ac897a8984fc2fc3333cc548dbf2b7c79641dd35e748e7711a89c0",
+      "textSha256": "69881acc318f54798784c33b99dc8f4d6463573d0cc4b649ddfcc95e92a31bc6"
+    },
+    {
+      "path": "public/assets/audio/narration/tutorial/desktop-3.mp3",
+      "bytes": 42110,
+      "durationSeconds": 6.897,
+      "sha256": "b17cbb1cd31e37fa4762da63da2730c802df8dbe72c7cdd4c82aff1c618b7d47",
+      "textSha256": "ff9ccc5e875bab360b6e76a25c0ac407e1157d12bac732ae81502cead5466154"
+    },
+    {
+      "path": "public/assets/audio/narration/tutorial/touch-1.mp3",
+      "bytes": 31811,
+      "durationSeconds": 5.041,
+      "sha256": "6d8adf132b4c2bdbe258de5ea41184a769821c61909f3036d89611626a3990d5",
+      "textSha256": "ea18da3dd00e33434101f5cf8f0c2012c358e9c49783ab9aa3460684d1502174"
+    },
+    {
+      "path": "public/assets/audio/narration/tutorial/touch-2.mp3",
+      "bytes": 30831,
+      "durationSeconds": 5.02,
+      "sha256": "320c068a39255e7eb7893496bcb7d3a47675d6a1b0d2cbc61b1669bb1d0b8395",
+      "textSha256": "7a055d72174f3295a5e67f096e7eb90e9196ec133d9aace89b05a7bc4900e1df"
+    },
+    {
+      "path": "public/assets/audio/narration/tutorial/touch-3.mp3",
+      "bytes": 34125,
+      "durationSeconds": 5.574,
+      "sha256": "07f055117f171f0264df8c686483c72ab89cd370e0774ac3327c80c180b536bc",
+      "textSha256": "2d3422534c96ba50f0eb4f8c0d71bc5d703bd86da3eea623a1ca559a1749ecc9"
+    },
+    {
+      "path": "public/assets/audio/narration/welcome/1.mp3",
+      "bytes": 34423,
+      "durationSeconds": 5.447,
+      "sha256": "5553fa93be94015b5a0f0d265cc2ab48e10fabf29977d6bc0dbc7778c924fdd6",
+      "textSha256": "b519ffac7d31c1aa3440917987c303f287fb1bd5cb9d9802bc7a976d3eaa7bdb"
+    },
+    {
+      "path": "public/assets/audio/narration/welcome/2.mp3",
+      "bytes": 76299,
+      "durationSeconds": 12.486,
+      "sha256": "163f96cae19c637ecccf3f0752a439dbd3465cff4e27a8d7cce938c85adeb27a",
+      "textSha256": "591f3cdfe4129e0230df1426fbc90bd86dd09abdb9aa024beeb202a3a8abbf20"
+    },
+    {
+      "path": "public/assets/audio/narration/welcome/3.mp3",
+      "bytes": 47365,
+      "durationSeconds": 7.708,
+      "sha256": "46aaafbd20ef9fa96bc015a3b37589fc29e65172e4618eb5ab34cf0a5718b1bc",
+      "textSha256": "3ba07163063eed1b9afdbae1b4a4f937ee929205ea24dca9128828097a94144b"
+    },
+    {
+      "path": "public/assets/audio/narration/welcome/4.mp3",
+      "bytes": 84429,
+      "durationSeconds": 13.639,
+      "sha256": "68f6deca6b8dc526025b7964da0e3e37f6b0e97b3eba5b28d5635eed788d0f7c",
+      "textSha256": "fde771250ac1517a7ef462d89e4602a1266e8d4648ef34b62133a4e6ccf89f2e"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/mints/friend-offer-declined.mp3",
+      "bytes": 31671,
+      "durationSeconds": 5.169,
+      "sha256": "c5179eb842dcbc22923a310f15cb1142f4fc6e774e964022568b1a818517b8fc",
+      "textSha256": "ec1b541ca081d839d40a912058a7345d0bee01601fa85f7a7f033aa2df3e9cd6"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/mints/narrator-offer-accepted.mp3",
+      "bytes": 35225,
+      "durationSeconds": 5.638,
+      "sha256": "caf086560de37c994a8c0441b956e9a771f88a894d2ba0db3b15daf1398d04a5",
+      "textSha256": "470d3b4d724bbc82ab46a0378bacb6a0e4666481d4f48857e34dcaa6b2e3be97"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/mints/quiet-difference.mp3",
+      "bytes": 32621,
+      "durationSeconds": 5.319,
+      "sha256": "86d8aa18580f3cfef3167a607e775b097cfef4f2ccd67d2c082cad6464a00897",
+      "textSha256": "cea20c793eed75d1de37fba0cb1ef47ed117b07548789e72573420bede31b95f"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/volunteered-help.mp3",
+      "bytes": 31209,
+      "durationSeconds": 5.062,
+      "sha256": "834d298adbda944923f2bc039070568e024edf31a007a1a78236bd9dba46fc80",
+      "textSha256": "7b1c7cf1f8616aea062f3bfb26400afcb5c25b58c3ddd7588d78854389211579"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/not-quick-or-easy.mp3",
+      "bytes": 17481,
+      "durationSeconds": 2.673,
+      "sha256": "3980a3698f97cb3d9725ed92d036fd9cf7efb34fd6425462dfb97d569a4fbc38",
+      "textSha256": "86cc62264590492a14ae9c890655c4f36cc50b432175eb5a8fdf92f9ff55d977"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/hours-of-effort.mp3",
+      "bytes": 14954,
+      "durationSeconds": 2.438,
+      "sha256": "f9add4d14db78bc1ef044b1fe428c59a1adf1e5c2941402f39f0f82a8043256a",
+      "textSha256": "7150c63cf61d38f7308012deefbb9cb752c21f7d9dd2c5a9f86ffa2bb15fadf4"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/struggled-alone.mp3",
+      "bytes": 20669,
+      "durationSeconds": 3.334,
+      "sha256": "dc2f74516c9004f7fe48ecbaf1e7f70b1affc4314d4c3d9aea41987569b3fee3",
+      "textSha256": "bdb06c5ec5765061038e6fda80a266db70b08dce6246184d248c4bfe83d5a1ac"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/help-itself.mp3",
+      "bytes": 20442,
+      "durationSeconds": 3.334,
+      "sha256": "60d8df3da99fcb0743f090f3d3803d15a5e9feb9f2a1b31d718019f2186848e3",
+      "textSha256": "dc0fcd86660b28fd14f369cb468599e6b72e5774cbcf6b9d2e081649f88f4cda"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/boarding-passes/chose-the-time.mp3",
+      "bytes": 36588,
+      "durationSeconds": 5.148,
+      "sha256": "2cb68c11f1699c1ac24e3ad3cc8f10114f697732ca1fb370a97804ad79c9c0d0",
+      "textSha256": "7d2c1a664b88a48b2bb41b6bc24f4e28f736e800629fc9bfd40cb617a19310b0"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/back/ordinary-breaks.mp3",
+      "bytes": 41854,
+      "durationSeconds": 6.833,
+      "sha256": "e2df3b2664a69695a95bfa08866d5063b4a93a05b5deaa0e6548a38e15db53b7",
+      "textSha256": "5afb9d1ebaf586bdca52fa6e1f7e77aaec633efc288862f221ba7518865a6e56"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/back/back.mp3",
+      "bytes": 5044,
+      "durationSeconds": 0.753,
+      "sha256": "4d55f7c3a61a5409ad388753e7044ef28dccc05808324cfb92604e86c4f963c9",
+      "textSha256": "4dc8c24acdcd1c8ebb19b76609767c94348b8d892fd6504249da2a30fed1c530"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/back/quiet-significance.mp3",
+      "bytes": 49965,
+      "durationSeconds": 8.156,
+      "sha256": "1940f5c232dc3edd07965b908bcd9011d6bbcb3f3eb3aa53e8586472a9940183",
+      "textSha256": "0d0b68349941f0fd91ca805f41de7405f41bbedff631d965fe22e65410cc4ea0"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/umbrella/umbrella-reminder.mp3",
+      "bytes": 33372,
+      "durationSeconds": 4.998,
+      "sha256": "3c262ac49766f7872e134557213050020ac00fa3a6b61743e8f275dbcdf5e1ac",
+      "textSha256": "e18c145628e7746e75e894ed07e6b1098837fdd18c23d3117e3d46c5b7244864"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/umbrella/walk-outside.mp3",
+      "bytes": 18451,
+      "durationSeconds": 2.993,
+      "sha256": "950c5351854e8bbea2d3a55716403c80dd2e30d13d3541ce3f44cc7587bf81ca",
+      "textSha256": "f2991d31bd7a91040679c220a5452a5fadc36980292b76a2a8c4cb425ece0c39"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/umbrella/meaningful-thought.mp3",
+      "bytes": 38509,
+      "durationSeconds": 6.279,
+      "sha256": "e1bd374c8b09c4a0313c84dd8adbd20597ea37da547aa90470ac2e507f4e5e89",
+      "textSha256": "960991b755566fabb43ac3347ef23211bf487a416708fda59e61c677343690d4"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/little-details/family-categories.mp3",
+      "bytes": 30344,
+      "durationSeconds": 4.956,
+      "sha256": "1602cae2a6004616f67d9bea81f591bccbb99e283c30aedd32628cd0487e6bdb",
+      "textSha256": "79da372bc0a1600f0a938ad364208832f9a98798d1e3cf80316daf263e98d999"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/little-details/everything-else.mp3",
+      "bytes": 16568,
+      "durationSeconds": 2.695,
+      "sha256": "eafe908ef0041bcc2c1f77dfaacfebb9dee7fd3fec74b79aedc608683cb6968f",
+      "textSha256": "0d3705312abcafedba72896183370489cf791f2d7a0af86539966d0402a653aa"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/little-details/without-hesitation.mp3",
+      "bytes": 30550,
+      "durationSeconds": 4.977,
+      "sha256": "3d89176205cac5f9dc4bdfa98acf04820b7e0f504c7c1024b9ea0653103fd414",
+      "textSha256": "20ffb1aeaedc1aeb0660bab0f0abe6975083bca1d29087d8f8536697a4b514b9"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/little-details/ordinary-world.mp3",
+      "bytes": 33411,
+      "durationSeconds": 5.425,
+      "sha256": "a9f0788d07ec0684ca2bd8a9ed7943dfd1c05d4c8148450d25f51581fe585e5b",
+      "textSha256": "5cb7130651a6495ce214e4f76924cd2acebce72b96cdb5a4ac737cbcbc2bdff9"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/little-details/effortless-trust.mp3",
+      "bytes": 22298,
+      "durationSeconds": 3.633,
+      "sha256": "da70c05e8b1400856586c4da1c4db6eb5259dc6d28979618272487b03211778b",
+      "textSha256": "4d87978e62aa4563d3050e502a76af58634d520cb621ef45cabad648dbdf5d4e"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/all-day-call/unspoken-feeling.mp3",
+      "bytes": 21385,
+      "durationSeconds": 3.185,
+      "sha256": "5e5e8def54fca338e893e00941550a4972d63b0a758162cbf5c08f58818823ad",
+      "textSha256": "55a0dd0ba8a37b5f54ce0d79ddb5bc0bed04a8d0182ca16e869893db1d1e7ee8"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/all-day-call/not-in-words.mp3",
+      "bytes": 14667,
+      "durationSeconds": 2.417,
+      "sha256": "5998bbc2e2ead497146c5f5e85265259c78b6a59b26091edb832518237c1371a",
+      "textSha256": "ca9310369f315b5678fd20783853ce290a2f3f33d0bdf18d866578e74357f6f0"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/all-day-call/chose-to-stay.mp3",
+      "bytes": 17256,
+      "durationSeconds": 2.801,
+      "sha256": "1a17b91e3b99fb85904ed13b4d6af520edf57004510ba8b636c2df98246a4ef5",
+      "textSha256": "7eabc8fd9d2d8f42a770f80c0bb210e2829485407c5f10ee053daaa76276c70b"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/all-day-call/entire-day.mp3",
+      "bytes": 9788,
+      "durationSeconds": 1.585,
+      "sha256": "877afcd0c2a0c9ade0e5a6a32bb2098a30e4cef94a3d30c272bdbb1341955d4c",
+      "textSha256": "5673ac850861878e46c213fd5f9bb00fb92a38355e3aa42fca2b72a2d61d7e14"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/all-day-call/quiet-choice.mp3",
+      "bytes": 27962,
+      "durationSeconds": 4.551,
+      "sha256": "eb00e16863b97318a9f490835d9ccc80bb82f9240801018cad6311c9924d1e7a",
+      "textSha256": "f3164d6b910c594bb3ed26e398d4c3d27b9dfce2499c37c7f24906cb40f382b3"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/friday-night.mp3",
+      "bytes": 9565,
+      "durationSeconds": 1.521,
+      "sha256": "de5ae154ead1184b1b7b78d1ca7dfbf2097080b8ee5187c2437f505d49bc8a8c",
+      "textSha256": "5e96987685d4ea83bb751027aee9893b9e4ee7578199b8aacaf000f8cbd60552"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/vulnerable-side.mp3",
+      "bytes": 18780,
+      "durationSeconds": 3.057,
+      "sha256": "a118e38efd6caddf39bdb4caf122981d41fc268de288aa242d242421c144937f",
+      "textSha256": "6d214e2fb5bf1f210fb44edeb5abe1dbefb2f6c1c2adfaf6c387f4c7f8401dba"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/perhaps-weak.mp3",
+      "bytes": 19663,
+      "durationSeconds": 3.207,
+      "sha256": "1c4d1842b4c596a63692a687de4c34769d3f7237507e7b9c4299347fc2d4011a",
+      "textSha256": "5799c733987762635b3663a47e704c8d308870969a39b2e4ca29c97a5bbdd5e8"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/not-hide.mp3",
+      "bytes": 20487,
+      "durationSeconds": 3.313,
+      "sha256": "03ffd9cb9cc22165e8b9089c77f40cdc02cfe362b20be01a6a065b481e75d733",
+      "textSha256": "5564d61e5394adbfe30dd91c9dc0c0b72e84d631eb5c66a5c54610938d2c712f"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/not-weakness.mp3",
+      "bytes": 16058,
+      "durationSeconds": 2.609,
+      "sha256": "2869a3daffa4fb9575d35ba32df2519a74ac1fb01c313160c28e657932f25b55",
+      "textSha256": "94bae113e0f1f8c8d338e6261d8755dea31027134f84491fe3c9f0a346ca8e78"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/trust-it-took.mp3",
+      "bytes": 18126,
+      "durationSeconds": 2.95,
+      "sha256": "42ad1ac26e45e454b8d4f8f56c9c778bebd7fa4902a0c34efcd8ed7213bb9ddc",
+      "textSha256": "9e3b7c659cab8a77a7b89298773d3ef53b334811a6fc44d24b1731430b85ce34"
+    },
+    {
+      "path": "public/assets/audio/narration/memories/friday-night/let-seen.mp3",
+      "bytes": 17015,
+      "durationSeconds": 2.78,
+      "sha256": "fa0ae2f5a96926f62d01569b132b2473e7328d5c5d63f8bb7861d5dbfec95523",
+      "textSha256": "641b16537368bc18cc2ea9e24e23c327afd052e2aeb49ed7a8509a18c0cef19a"
+    },
+    {
+      "path": "public/assets/audio/narration/finale/final-letter.mp3",
+      "bytes": 1138365,
+      "durationSeconds": 190.096,
+      "sha256": "1c5e70d5f9e5cb6397edbb30dd7e24eb73a0167b26edce47172879fa39da2c9a",
+      "textSha256": "013be1a90c99b0456cab030e89156bfe87c1acb9677a5b6eaa9c799506f6dcca"
+    }
+  ]
+}

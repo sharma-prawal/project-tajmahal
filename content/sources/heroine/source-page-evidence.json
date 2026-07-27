@@ -1,0 +1,26 @@
+{
+  "capturedAt": "2026-07-21T18:15:00+05:30",
+  "character": {
+    "name": "Universal Base Characters",
+    "author": "Quaternius",
+    "url": "https://quaternius.itch.io/universal-base-characters",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "downloadedArchive": "Universal Base Characters[Standard].zip",
+    "downloadSizeAdvertised": "122 MB",
+    "archiveSha256": "fdbf1804c90dfc1ea03e992bff7da2dfd1a79318e13270a660180f9308455f40",
+    "sourceClaims": ["Average 13k triangles", "Humanoid rig", "glTF available", "Free commercial use under CC0"]
+  },
+  "animations": {
+    "name": "Universal Animation Library",
+    "author": "Quaternius; source page thanks Gonzalo Furnier for animation contributions",
+    "url": "https://quaternius.itch.io/universal-animation-library",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "downloadedArchive": "Universal Animation Library[Standard].zip",
+    "downloadSizeAdvertised": "15 MB",
+    "archiveSha256": "cc73fc4e495b82958207316596317a3f40b9fa38065bde1027937452da537724",
+    "sourceClaims": ["120+ animations", "Universal humanoid rig", "Root-motion and non-root-motion versions", "Free commercial use under CC0"]
+  },
+  "notes": "Evidence records only verifiable source-page statements and locally computed archive hashes. Full source archives were inspected from /tmp and are not committed to avoid adding 138 MB of redundant distribution content."
+}

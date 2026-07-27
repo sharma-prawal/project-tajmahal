@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-27T00:00:00.000Z",
+  "assets": [
+    {
+      "id": "taj-candidate-01-mihir",
+      "displayName": "3D Taj mahal - Mihir (production exterior source)",
+      "category": "architecture",
+      "acquisitionMethod": "downloaded",
+      "essential": "essential",
+      "runtimePath": "runtime/taj-candidates/candidate-01-mihir/desktop.glb",
+      "format": "glb",
+      "variants": [
+        {
+          "tier": "desktop",
+          "path": "runtime/taj-candidates/candidate-01-mihir/desktop.glb",
+          "compressedBytes": 179328
+        },
+        {
+          "tier": "mobile",
+          "path": "runtime/taj-candidates/candidate-01-mihir/mobile.glb",
+          "compressedBytes": 117532
+        }
+      ],
+      "compressedBytes": 179328,
+      "decodedTextureMemoryBytes": 0,
+      "triangles": 183184,
+      "materialCount": 3,
+      "animation": {
+        "hasAnimation": false
+      },
+      "collision": {
+        "proxyType": "box"
+      },
+      "lod": {
+        "levels": [
+          {
+            "id": "desktop",
+            "triangles": 183184
+          },
+          {
+            "id": "mobile",
+            "triangles": 73589
+          }
+        ]
+      },
+      "preload": "lazy",
+      "sourceHash": "sha256-06a1afae3f3025c1913e150546bc4c176809c21826691061129f208518a11466",
+      "runtimeHash": "sha256-579c3b7ca43888ad13e441e5cf169ed4a2b1ca28710c448535989561f86a50eb",
+      "creditsId": "taj-candidate-01-mihir",
+      "validationStatus": "passed",
+      "notes": "Approved exterior source derivative retained for reproducibility and licence evidence. Production loads the final processed Taj model from public/assets/models/taj-premium/tajmahal.glb."
+    }
+  ]
+}
