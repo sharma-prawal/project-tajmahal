@@ -62,3 +62,7 @@ the production derivative inventory in `content/assets.manifest.json`.
 - [Final experience audit](docs/phase-11/phase-11-final-experience-audit.md)
 - [Production audio](docs/phase-11.5/README.md)
 - [Narration licence](docs/audio/narration-license.md)
+
+## License
+
+Code is released under the [MIT License](LICENSE). Photos, video, artwork, audio and written content are not covered by it: personal media is © Prawal Sharma, all rights reserved, and third-party assets remain under their own licenses.
