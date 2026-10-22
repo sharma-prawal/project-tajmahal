@@ -1,5 +1,15 @@
 # Project Taj
 
+> A third-person 3D exploration game set in a stylised Taj Mahal garden.
+
+**Live:** [project-tajmahal.vercel.app](https://project-tajmahal.vercel.app)
+
+<p align="center">
+  <img src="docs/screenshots/desktop.jpg" width="72%" alt="Screenshot" />
+  <img src="docs/screenshots/mobile.jpg" width="18%" alt="Screenshot" />
+</p>
+
+
 Project Taj is a third-person 3D narrative exploration game set in a stylized
 Taj Mahal garden. Players recover seven authored memories, climb the exterior
 Taj stairs, and reach a narrated final letter. The mausoleum interior remains
